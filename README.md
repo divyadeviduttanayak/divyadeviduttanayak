@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Divya Nayak
+# Hi there 👋 I'm Dibya Devidutta Nayak
 
 🌟 **Aspiring Data Analyst | Exploring the World of Data** 🌟  
 I'm currently diving into the fascinating field of **Data Analysis**, combining programming, statistical insights, and visualization to uncover actionable insights from data.
